@@ -544,11 +544,11 @@ void drawMenu() {
   fill(0, 180, 255);
   textAlign(CENTER);
   textSize(90);
-  text("DIEP.IO", width/2, height/3 - 60);
+  text("DIEP.SQL", width/2, height/3 - 60);
   
   fill(220);
   textSize(28);
-  text("GLOIRE AU SQL !!!!!!", width/2, height/3);
+  text("GLOIRE AU SQL !!!!!! BIG MAC BOURDON !!", width/2, height/3);
   
   // Champ de saisie du nom
   float inputW = 400;
